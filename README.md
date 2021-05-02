@@ -1,6 +1,6 @@
 # pizza-api
 #Author Priyansh Jhalani
-Python 3.7.4 required
+#Python 3.7.4 required
 #Steps to run the project
 create virtual environment
 pip install virtualenv
