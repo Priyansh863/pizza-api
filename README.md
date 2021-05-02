@@ -1,7 +1,6 @@
 # pizza-api
-#Author Priyansh Jhalani
 #Python 3.7.4 required
-#Steps to run the project
+1 Steps to run the project
 create virtual environment
 pip install virtualenv
 virtualenv myenv
@@ -9,12 +8,12 @@ install all packages by pip install -r requirements.txt
 activate virtualenv by myenv/scripts/activate
 run project by py manage.py runserver
 
-#Database 
+2 Database 
 djongo==1.3.4
 mongoengine==0.23.0
 Name : rest
 
-#API
+3 API
 Pizza create (Token is required)
 url : http://127.0.0.1:8000/app/PizzaView/
 Pizza delete (Token is required)
